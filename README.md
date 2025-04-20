@@ -10,7 +10,7 @@ Most of the projects here were done for learning purposes, case studies or perso
 
 ## 📂 Projects  
 You can check out my repositories for various analytics projects.  
-Projects include Jupyter Notebooks, SQL queries, and visualizations etc.  
+Which include Jupyter Notebooks, SQL queries, and visualizations etc.  
 
 ## 🔗 Connect with me  
 - 💬 Telegram: [t.me/netrunner55746](https://t.me/netrunner55746)  
