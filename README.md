@@ -15,4 +15,4 @@ Which include Jupyter Notebooks, SQL queries, and visualizations etc.
 ## 🔗 Connect with me  
 - 💬 Telegram: [t.me/netrunner55746](https://t.me/netrunner55746)  
 
-Currently looking for a job as Data Analyst in Russia (Tver, for non-remote offers)
+Currently looking for a job as Data Analyst in Russia (Tver, for non-remote offers/Moscow, for hybrid)
